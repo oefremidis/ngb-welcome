@@ -1,0 +1,15 @@
+h3 {
+  color: green;
+}
+
+p {
+  color: blue;
+}
+
+.important {
+  background-color: bisque;
+}  
+
+#side {
+  background-color: aqua;
+}
